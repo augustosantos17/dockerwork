@@ -1,0 +1,11 @@
+{
+    "redis.connections": [
+  {
+    "label": "Redis Cluster",
+    "host": "localhost",
+    "port": 6378,
+    "cluster": true
+  }
+]
+
+}
